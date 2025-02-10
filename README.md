@@ -1,7 +1,7 @@
 ## 🙋🏻‍♀ About Me
-### Hi, I’m @ohhanol
-### I study about ***'Wireless Communication'*** and ***'AI'***
-### in the ICIS lab of Hanbat National University
+### Hi, I’m Hanol Oh
+### I study about ***'Wireless Communication system'*** and ***'AI/ML'***
+### in the Intelligent Wireless System Lab.(iWSL) at Chung-Ang University of Korea
 
 ---
 ## 📫 Contact Me
